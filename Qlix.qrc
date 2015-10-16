@@ -1,0 +1,61 @@
+<!--
+Copyright (C) 2008 Ali Shah <caffein@gmail.com>
+
+This file is part of the Qlix project on http://berlios.de
+This file may be used under the terms of the GNU General Public
+License version 2.0 as published by the Free Software Foundation
+and appearing in the file COPYING included in the packaging of
+this file.  
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License version 2.0 for more details.
+
+You should have received a copy of the GNU General Public License along
+with this program; if not, write to the Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+-->
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file>pixmaps/connected.png</file>
+        <file>pixmaps/disconnected.png</file>
+        <file>pixmaps/settings.png</file>
+        <file>pixmaps/device.png</file>
+        <file>pixmaps/file.png</file>
+        <file>pixmaps/folder.png</file>
+        <file>pixmaps/rootDevice.png</file>
+        <file>pixmaps/miscDev.png</file>
+        <file>pixmaps/noDevice.png</file>
+        <file>pixmaps/albumlist.png</file>
+        <file>pixmaps/track.png</file>
+        <file>pixmaps/miscAlbumCover.png</file>
+        <file>pixmaps/playlist.png</file>
+        <file>pixmaps/filelist.png</file>
+        <file>pixmaps/preferences.png</file>
+        <file>pixmaps/managedevice.png</file>
+        <file>pixmaps/ShowQueue.png</file>
+        <file>pixmaps/playlisticon.png</file>
+        <file>pixmaps/ActionBar/AddToPlaylist.png</file>
+        <file>pixmaps/ActionBar/AddToQueue.png</file>
+        <file>pixmaps/ActionBar/DeleteFile.png</file>
+        <file>pixmaps/ActionBar/DeleteFolder.png</file>
+        <file>pixmaps/ActionBar/DeleteFromPlaylist.png</file>
+        <file>pixmaps/ActionBar/DeleteFromQueue.png</file>
+        <file>pixmaps/ActionBar/DeletePlaylist.png</file>
+        <file>pixmaps/ActionBar/DeleteTrack.png</file>
+        <file>pixmaps/ActionBar/HideQueue.png</file>
+        <file>pixmaps/ActionBar/NewFolder.png</file>
+        <file>pixmaps/ActionBar/NewPlaylist.png</file>
+        <file>pixmaps/ActionBar/ShowDeviceTracks.png</file>
+        <file>pixmaps/ActionBar/ShowFSTracks.png</file>
+        <file>pixmaps/ActionBar/SyncQueue.png</file>
+        <file>pixmaps/ActionBar/TransferFile.png</file>
+        <file>pixmaps/ActionBar/TransferFromDevice.png</file>
+        <file>pixmaps/DetectDevices.png</file>
+        <file>pixmaps/TreeView/branch-closed.png</file>
+        <file>pixmaps/TreeView/branch-open.png</file>
+        <file>pixmaps/qlix.xpm</file>
+    </qresource>
+</RCC>
+
